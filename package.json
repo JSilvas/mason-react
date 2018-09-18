@@ -1,0 +1,24 @@
+{
+  "name": "mason-react",
+  "version": "1.0.0",
+  "description": "A react component version of the minimalist &amp; responsive masonry layout.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSilvas/mason-react.git"
+  },
+  "keywords": [],
+  "author": "Jay Silvas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JSilvas/mason-react/issues"
+  },
+  "homepage": "https://github.com/JSilvas/mason-react#readme",
+  "dependencies": {
+    "create-react-app": "^1.5.2",
+    "eslint-config-airbnb": "^17.1.0"
+  }
+}
